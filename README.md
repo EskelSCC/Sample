@@ -1,2 +1,2 @@
-#My App <b>
+#My App 
 This is my first try
